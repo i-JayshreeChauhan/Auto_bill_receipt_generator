@@ -1,0 +1,6 @@
+Bill amount : <PRICE> Rs.
+
+Thank you <CUSTOMER_NAME> for visiting outlet <OUTLET_NAME>.
+we are waiting to serve you again.
+
+for inquiries contact www.<COMPANY_NAME>.com/inquiries
