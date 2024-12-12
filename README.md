@@ -5,7 +5,6 @@ Developed By : Jayshree Chauhan
 <br>
 ## Aim : the project aims to develop a auto bill receipt from a file template 
 <br>
-<br>
 In this project i will showcase the use of concepts 
 <br>
     - file I/O<br>
