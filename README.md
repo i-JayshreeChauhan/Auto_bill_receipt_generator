@@ -15,7 +15,6 @@ In this project i will showcase the use of concepts
 <br>
 ## Project Description
 <br>
-<br>
 In this project i will be taking template refernce of BillTemplate.txt file , which contains template of bill receipt
 then i'll ask user to input his/her name. 
 i will feed some strings which are necessary in the program such as : company name , bill amount ,outlet name.
