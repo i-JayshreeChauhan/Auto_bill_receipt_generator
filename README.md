@@ -1,8 +1,10 @@
 # AUTO BILL RECEIPT GENERATOR
-<br>
+
 Developed By : Jayshree Chauhan
 <br>
-**Aim** : **the project aims to develop a auto bill receipt from a file template**
+<br>
+## Aim : the project aims to develop a auto bill receipt from a file template
+<br>
 <br>
 In this project i will showcase the use of concepts 
 <br>
@@ -10,8 +12,10 @@ In this project i will showcase the use of concepts
     - pointer<br>
     - Strings<br>
     - functions<br>
-
-**Project Description**
+<br>
+### Project Description
+<br>
+<br>
 In this project i will be taking template refernce of BillTemplate.txt file , which contains template of bill receipt
 then i'll ask user to input his/her name. 
 i will feed some strings which are necessary in the program such as : company name , bill amount ,outlet name.
