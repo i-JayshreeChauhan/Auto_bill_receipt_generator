@@ -71,11 +71,5 @@ Thank you for your purchase!
 
 ---
 
-## Future Enhancements  
-- Allow users to customize additional fields in the receipt.
-- Provide a graphical user interface (GUI) for a better user experience.
-- Support for multiple templates and dynamic template selection.
-
----
 
 Feel free to contribute to this project or suggest improvements!

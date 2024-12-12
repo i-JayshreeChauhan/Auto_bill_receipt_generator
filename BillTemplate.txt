@@ -1,6 +1,5 @@
-Bill amount : <PRICE> Rs.
-
-Thank you <CUSTOMER_NAME> for visiting outlet <OUTLET_NAME>.
-we are waiting to serve you again.
-
-for inquiries contact www.<COMPANY_NAME>.com/inquiries
+Company Name: [COMPANY_NAME]
+Outlet: [OUTLET_NAME]
+Customer Name: [CUSTOMER_NAME]
+Bill Amount: [BILL_AMOUNT]
+Thank you for your purchase!
