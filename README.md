@@ -3,7 +3,7 @@
 Developed By : Jayshree Chauhan
 <br>
 <br>
-<u>Aim : the project aims to develop a auto bill receipt from a file template</u>
+## Aim : the project aims to develop a auto bill receipt from a file template 
 <br>
 <br>
 In this project i will showcase the use of concepts 
@@ -13,7 +13,7 @@ In this project i will showcase the use of concepts
     - Strings<br>
     - functions<br>
 <br>
-<u>Project Description</u>
+## Project Description
 <br>
 <br>
 In this project i will be taking template refernce of BillTemplate.txt file , which contains template of bill receipt
