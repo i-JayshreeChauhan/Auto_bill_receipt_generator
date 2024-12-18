@@ -1,3 +1,4 @@
+
 # AUTO BILL RECEIPT GENERATOR
 
 **Developed By**: Jayshree Chauhan
@@ -35,38 +36,46 @@ In this project:
 2. Ensure the file `BillTemplate.txt` exists in the same directory as the program.  
 3. Compile the C program using any standard C compiler (e.g., GCC).  
    ```bash
-   gcc AutoBillReceiptGenerator.c -o AutoBillReceiptGenerator
+   gcc Auto_Bill_Generator.c -o Auto_Bill_Generator
    ```
 4. Run the executable:  
    ```bash
-   ./AutoBillReceiptGenerator
+   ./Auto_Bill_Generator
    ```
 5. Follow the on-screen instructions to input your name and generate the bill receipt.
 
 ---
 
-## Example Template File (`BillTemplate.txt`)  
+## Example Template File (`BillTemplate.txt`)
 ```text
+------------------| [CUSTOMER_NAME]'s Bill |------------------
+
 Company Name: [COMPANY_NAME]
 Outlet: [OUTLET_NAME]
+
 Customer Name: [CUSTOMER_NAME]
-Bill Amount: [BILL_AMOUNT]
-Thank you for your purchase!
+Bill Amount: [BILL_AMOUNT] Rs.
+
+Thanks [CUSTOMER_NAME] for your purchase! Do visit again.
 ```
 
 ---
 
 ## Sample Output  
-When the program runs, it might generate a new file like this:
+When the program runs, it will generate a new file like this:
 
-**Generated File:** `GeneratedReceipt.txt`
+**Generated File:** `bill.txt`
 
 ```text
-Company Name: ABC Pvt Ltd
-Outlet: Main Branch
+------------------| Jayshree Chauhan's Bill |------------------
+
+Company Name: GRUB GARAGE
+Outlet: BARODA OUTLET
+
 Customer Name: Jayshree Chauhan
-Bill Amount: $100.00
-Thank you for your purchase!
+Bill Amount: 1000.0 Rs.
+
+Thanks Jayshree Chauhan for your purchase! Do visit again.
 ```
 
 ---

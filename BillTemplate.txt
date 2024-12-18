@@ -1,5 +1,9 @@
+------------------| [CUSTOMER_NAME]'s Bill |------------------
+
 Company Name: [COMPANY_NAME]
 Outlet: [OUTLET_NAME]
+
 Customer Name: [CUSTOMER_NAME]
-Bill Amount: [BILL_AMOUNT]
-Thank you for your purchase!
+Bill Amount: [BILL_AMOUNT] Rs.
+  
+Thanks [CUSTOMER_NAME] for your purchase! Do visit again.

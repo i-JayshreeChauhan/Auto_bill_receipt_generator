@@ -1,0 +1,9 @@
+------------------| Jayshree's Bill |------------------
+
+Company Name: GRUB GARAGE
+Outlet: BARODA OUTLET
+
+Customer Name: Jayshree
+Bill Amount:  3441.8 Rs.
+  
+Thanks Jayshree for your purchase! Do visit again.
