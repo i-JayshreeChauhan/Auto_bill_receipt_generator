@@ -17,6 +17,7 @@ This project showcases the use of the following C programming concepts:
 - **Pointers**: Efficient memory management and data manipulation.  
 - **Strings**: Handling and manipulating text data.  
 - **Functions**: Modularizing the code into reusable blocks.  
+- **Dynamic Memory Allocation**: Allocating and reallocating memory dynamically to handle varying data sizes and ensure efficient memory usage.  
 
 ---
 
